@@ -1,8 +1,10 @@
 
-=========dev========dev===========dev=======
+====ON_MASTER=====dev========dev===========dev=======
 MASTER
 I added some text from dev and it appeared in MASTER
 text from MASTER
 text from Master-2
 
-*********MERGE**********
+*********ON_MASTER**********
+
+some 579 text
