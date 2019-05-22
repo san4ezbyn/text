@@ -1,8 +1,4 @@
 
 
 
-<<<<<<< HEAD
-
-=======
-I am dev line.
->>>>>>> dev
+I am cherry-pick in master
