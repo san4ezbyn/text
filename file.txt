@@ -8,3 +8,6 @@ text from Master-2
 
 *********MERGE**********
 .....another merge from dev..
+developer line
+
+....345
