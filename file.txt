@@ -1,2 +1,5 @@
 
 MASTER
+
+text from MASTER
+text from Master-2
