@@ -1,27 +1,4 @@
 
 
-<<<<<<< HEAD
+
 I am dev line.
-=======
-1====ON_MASTER=====dev========dev===========dev=======
-2=======
-
-3=========DEV========DEV===========DeV=======
-
-4 MASTER
-5 I added some text from dev and it appeared in MASTER
-6 text from MASTER
-7 text from Master-2
-
-
-8 *********ON_MASTER**********
-
-9 some 579 text
-10 =======
-11 *********MERGE**********
-12 .....another merge from dev..
-13 developer line
-
-14 ....345
-
->>>>>>> master
