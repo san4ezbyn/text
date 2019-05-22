@@ -1,5 +1,8 @@
 
-MASTER
 
+MASTER
+I added some text from dev and it appeared in MASTER
 text from MASTER
 text from Master-2
+
++++++++MERGE++++++++++
